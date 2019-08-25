@@ -110,6 +110,7 @@ ddi_conversational/
 env.bak/
 venv.bak/
 conv/
+tmp/
 
 # Spyder project settings
 .spyderproject
